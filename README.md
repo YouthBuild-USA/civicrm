@@ -1,4 +1,4 @@
-civicrm
+CiviCRM
 =======
 
-CiviCRM for Youthbuild
+Git repository containing the release versions of CiviCRM for Drupal6.
